@@ -1,0 +1,2 @@
+python-tk
+opencv-python
